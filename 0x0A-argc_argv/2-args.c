@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * #include <stdio.h>
+ * main - prints all argument it receives
  * @argc: input
  * @argv: input
  * Return: Always 0
