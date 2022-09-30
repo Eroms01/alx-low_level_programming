@@ -4,7 +4,7 @@
  * main - Main Entry
  * @argc: input
  * @argv: input
- * Return: Always 0 
+ * Return: Always 0
  */
 int main(int argc, char *argv[])
 {
